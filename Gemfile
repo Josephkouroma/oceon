@@ -53,6 +53,8 @@ end
 
 gem 'rails_12factor', group: :production
 gem 'puma', group: :production
+gem 'paperclip'
+gem 'aws-sdk', '~> 2.3'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
