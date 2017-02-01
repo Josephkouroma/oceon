@@ -62,12 +62,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_single.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static/course_single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5576923">
-              <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+            <state vertical-scroll-proportion="-3.0588236">
+              <caret line="39" column="121" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="121" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/static/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6666667">
+              <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#article#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +136,6 @@
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/app/views/static/components.html" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/static/contact.html" />
         <option value="$PROJECT_DIR$/app/views/static/course-single.html" />
         <option value="$PROJECT_DIR$/app/views/static/buttons.html" />
         <option value="$PROJECT_DIR$/app/views/static/course-single-2.html" />
@@ -160,6 +171,7 @@
         <option value="$PROJECT_DIR$/app/views/static/index.html" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static/course_single.html" />
+        <option value="$PROJECT_DIR$/app/views/static/contact.html" />
       </list>
     </option>
   </component>
@@ -714,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static/buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1016,9 +1021,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static/course_single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5576923">
-          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+        <state vertical-scroll-proportion="-3.0588236">
+          <caret line="39" column="121" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="121" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#article#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
