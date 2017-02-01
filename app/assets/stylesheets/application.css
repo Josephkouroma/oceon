@@ -13,6 +13,7 @@
  *= require prettyphoto-rails
  * Comment require_tree .
  *= require green/styles-green
+ *= require flexslider
  *= require_self
  *= require applicationsass
  */
