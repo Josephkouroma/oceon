@@ -25,21 +25,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89726025">
-              <caret line="338" column="0" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.1960785">
+              <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homepage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/static/courses.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-37.666668">
+              <caret line="324" column="0" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/static/course_single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9019607">
+              <caret line="77" column="76" selection-start-line="77" selection-start-column="75" selection-end-line="77" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static/homepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9607842">
-              <caret line="338" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.38356164">
+              <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -108,11 +128,11 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static/contact.html" />
-        <option value="$PROJECT_DIR$/app/views/static/courses.html" />
         <option value="$PROJECT_DIR$/app/views/static/about.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/views/static/homepage.html" />
+        <option value="$PROJECT_DIR$/app/views/static/courses.html" />
         <option value="$PROJECT_DIR$/app/views/static/index.html" />
+        <option value="$PROJECT_DIR$/app/views/static/homepage.html" />
       </list>
     </option>
   </component>
@@ -139,7 +159,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
+    <option name="x" value="168" />
     <option name="y" value="23" />
     <option name="width" value="1254" />
     <option name="height" value="809" />
@@ -484,7 +504,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="23" width="1254" height="809" extended-state="0" />
+    <frame x="168" y="23" width="1254" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48039216" sideWeight="0.490099" order="7" side_tool="false" content_ui="tabs" />
@@ -856,13 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static/course_single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="121" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33228347">
@@ -874,14 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33228347">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static/courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,18 +906,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static/homepage.html">
+    <entry file="file://$PROJECT_DIR$/app/views/static/courses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9607842">
-          <caret line="338" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+        <state vertical-scroll-proportion="-37.666668">
+          <caret line="324" column="0" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static/course_single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9019607">
+          <caret line="77" column="76" selection-start-line="77" selection-start-column="75" selection-end-line="77" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89726025">
-          <caret line="338" column="0" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.1960785">
+          <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38356164">
+          <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
           <folding />
         </state>
       </provider>
